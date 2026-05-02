@@ -35,5 +35,5 @@ export default defineConfig({
   assetsInclude: ['**/*.svg', '**/*.csv'],
 })
 export default {
-  base:,
+  base:
 };
